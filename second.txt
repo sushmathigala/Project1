@@ -1,0 +1,7 @@
+A computer program is a list of "instructions" to be "executed" by the computer.
+
+In a programming language, these program instructions are called statements.
+
+JavaScript is a programming language.
+
+JavaScript statements are separated by semicolon.
